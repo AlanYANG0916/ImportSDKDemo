@@ -13,6 +13,7 @@ import dji.sdk.base.BaseComponent;
 import dji.sdk.base.BaseProduct;
 import dji.sdk.sdkmanager.DJISDKManager;
 
+
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = MainActivity.class.getName();
     public static final String FLAG_CONNECTION_CHANGE = "dji_sdk_connection_change";
