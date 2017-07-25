@@ -92,4 +92,4 @@ public class MainActivity extends AppCompatActivity {
             sendBroadcast(intent);
         }
     };
-}
+}//do some test
