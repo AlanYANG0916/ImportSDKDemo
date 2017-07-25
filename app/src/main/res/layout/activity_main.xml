@@ -108,7 +108,7 @@
             android:id="@+id/Compass"
             android:layout_width="405dp"
             android:layout_height="91dp"
-            android:layout_marginRight="10dp"/>
+            android:layout_marginRight="12dp"/>
     </LinearLayout>
     <!--6-->
     <!--Take off and return home buttons on left -->
